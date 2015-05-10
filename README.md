@@ -8,7 +8,7 @@ I put up a camp song where you substitute different types of beans in the song. 
 
 2. Clone the repo to your desktop
 
-2. Find and replace "Lima" with your favorite kind of bean and save the file.
+2. Add another verse to the song and then find and replace "Lima" with your favorite kind of bean and save the file.
 
 3. Push the changes back to GitHub
 
